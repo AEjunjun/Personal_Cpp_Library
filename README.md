@@ -6,4 +6,6 @@ A personal C library, probably will write a bunch of very poor code.
 
 # 介绍
 
-Dome文件夹我用来放我新手写的垃圾玩意（）
+Dome文件夹我用来放我新手写的垃圾玩意
+
+实际上我写这个没什么意义.
